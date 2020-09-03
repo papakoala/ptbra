@@ -85,14 +85,14 @@ cover_image                               : assets/icons8-koala _large.PNG      
 cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0.5
 
-device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
 link_color                                : "#ffa69e"
 
-app_title_color                           : "#0d3b66"
-app_price_color                           : "#5d576b"
+app_title_color                           : "#5d576b"
+app_price_color                           : "#0d3b66"
 app_description_color                     : "#7cc6fe"
 
 feature_title_color                       : "#7cc6fe"
