@@ -89,22 +89,22 @@ device_color                              : coral                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#ffa69e"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#7cc6fe"
+app_price_color                           : "#7cc6fe"
+app_description_color                     : "#7cc6fe"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#7cc6fe"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#7cc6fe"
+feature_icons_background_color            : "#ffa69e"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#7cc6fe"
+social_icons_background_color             : "#0d3b66"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#5d576b"
 
 
 
