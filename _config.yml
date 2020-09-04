@@ -93,13 +93,13 @@ link_color                                : "#ffa69e"
 
 app_title_color                           : "#5d576b"
 app_price_color                           : "#0d3b66"
-app_description_color                     : "#ffa69e"
+app_description_color                     : "#FA6694"
 
 feature_title_color                       : "#7cc6fe"
 feature_text_color                        : "#5d576b"
 
 feature_icons_foreground_color            : "#ffffff"
-feature_icons_background_color            : "#ffa69e"
+feature_icons_background_color            : "#FA6694"
 
 social_icons_foreground_color             : "#7cc6fe"
 social_icons_background_color             : "#0d3b66"
