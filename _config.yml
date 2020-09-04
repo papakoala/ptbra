@@ -26,7 +26,7 @@ email_address                             : hello@papakoala.com
 facebook_username                         :                                           
 instagram_username                        : papakoala_en
 twitter_username                          : unpapakoala
-github_username                           : papakoala
+github_username                           :
 youtube_username                          :
 
 
@@ -91,8 +91,8 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#FA6694"
 
-app_title_color                           : "#C4C4C4"
-app_price_color                           : "#C4C4C4"
+app_title_color                           : "#FEF5DC"
+app_price_color                           : "#FEF5DC"
 app_description_color                     : "#FA6694"
 
 feature_title_color                       : "#6EC8FF"
