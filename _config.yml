@@ -79,7 +79,7 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#6EC8FF"
 topbar_transparency                       : 0.8
-topbar_title_color                        : "#5d576b"
+topbar_title_color                        : "#D2D1D8"
 
 cover_image                               : assets/icons8-koala _large.PNG                   # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
@@ -91,12 +91,12 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#FA6694"
 
-app_title_color                           : "#5d576b"
-app_price_color                           : "#0d3b66"
+app_title_color                           : "#D2D1D8"
+app_price_color                           : "#D2D1D8"
 app_description_color                     : "#FA6694"
 
 feature_title_color                       : "#6EC8FF"
-feature_text_color                        : "#5d576b"
+feature_text_color                        : "#D2D1D8"
 
 feature_icons_foreground_color            : "#ffffff"
 feature_icons_background_color            : "#FA6694"
