@@ -81,7 +81,7 @@ topbar_color                              : "#6EC8FF"
 topbar_transparency                       : 0.8
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/header_lowres.jpeg                  # Replace with alternative image path or image URL.
+cover_image                               : assets/header_lowres.jpg                  # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
 cover_overlay_transparency                : 0.5
 
