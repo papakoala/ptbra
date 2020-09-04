@@ -23,11 +23,11 @@ your_name                                 : Papakoala
 your_link                                 : https://papakoala.com                     
 your_city                                 :                              
 email_address                             : hello@papakoala.com
-facebook_username                         : test                                          
+facebook_username                         :                                           
 instagram_username                        : papakoala_en
 twitter_username                          : unpapakoala
 github_username                           : 
-youtube_username                          : test
+youtube_username                          : 
 
 
 
@@ -96,7 +96,7 @@ app_price_color                           : "#ADAEB2"
 app_description_color                     : "#FA6694"
 
 feature_title_color                       : "#6EC8FF"
-feature_text_color                        : "#C4C4C4"
+feature_text_color                        : "#ADAEB2"
 
 feature_icons_foreground_color            : "#ffffff"
 feature_icons_background_color            : "#FA6694"
