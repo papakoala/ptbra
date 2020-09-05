@@ -67,8 +67,8 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#6EC8FF"
-topbar_transparency                       : 0.5
-topbar_title_color                        : "#ffffff"
+topbar_transparency                       : 0.4
+topbar_title_color                        : "#444B54"
 
 cover_image                               : assets/header_lowres.jpg                  # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#ffffff"
@@ -81,7 +81,7 @@ body_background_color                     : "#ffffff"
 link_color                                : "#444B54"
 
 app_title_color                           : "#444B54"
-app_price_color                           : "#ADAEB2"
+app_price_color                           : "#FFFFFF"
 app_description_color                     : "#FA6694"
 
 feature_title_color                       : "#6EC8FF"
