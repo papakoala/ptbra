@@ -326,13 +326,14 @@ nav > ul li a:active {
 }
 
 .appLanguageContainer {
-	font-size: 1rem;
+	font-size: 1.5rem;
 	font-weight: normal;
 	width: 100%;
 	align-items: center;
-	margin-top: 15px;
 	flex: 0 1 auto;
 	line-height: 1.5;
+	margin-top: 13px;
+	text-align: center;
 }
 
 .appLanguage {
