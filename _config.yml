@@ -91,7 +91,7 @@ feature_icons_foreground_color            : "#ffffff"
 feature_icons_background_color            : "#FA6694"
 
 social_icons_foreground_color             : "#7cc6fe"
-social_icons_background_color             : "#0d3b66"
+social_icons_background_color             : 
 
 footer_text_color                         : "#5d576b"
 
