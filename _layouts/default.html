@@ -49,9 +49,9 @@
                             <p class ="appDescription">
                                 {{ site.app_description }}
                             </p>
-                            <h2 class="appLanguages">
-                                Available in the following languages: English, <a href="{{ https://papakoala.com/es }}"target="_self">Español</a>
-                            </h2>
+                            <h3 class="appLanguages">
+                                <li>Available languages<: <a href="{{ https://papakoala.com }}"target="_self">English</a></li> |<li><a href="{{ site.spanish_page_link | relative_url }}"target="_self">Español</a></li>
+                            </h3>
                         </div>
                         <div class="downloadButtonsContainer">
                             {% if site.playstore_link %}
