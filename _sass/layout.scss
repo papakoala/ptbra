@@ -325,6 +325,19 @@ nav > ul li a:active {
 	color: $app-description-color;
 }
 
+.appLanguageContainer {
+	font-size: 2.5rem;
+	font-weight: normal;
+	width: 100%;
+	align-items: flex-start;
+	margin-top: 45px;
+	flex: 0 1 auto;
+	line-height: 1.5;
+}
+
+.appLanguage {
+	color: $app-price-color;
+}
 @media only screen and (max-width: 992px) {
 
 	.appDescription {
