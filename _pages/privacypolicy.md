@@ -11,13 +11,13 @@ December 1 2020
 This Privacy Policy describes how your personal information is handled in PapaKoala for iOS.
 
 ## We Collect No Personal Information Using Our Application 
-We do not collect, use, save, or have access to any of your personal data recorded in PapaKoala for iOS. Individual settings relating to the Papakoala app are not personal and are stored only on your device.  
+We do not collect, use, save, or have access to any of your personal data recorded in PapaKoala for iOS. Individual settings relating to the PapaKoala app are not personal and are stored only on your device.  
 
 ## Our Application Comply with the Children’s Online Privacy Protection Act
 Our application doesn’t collect personal information from anyone, including children under the age of 13.
 
 ## Disclaimer
-The information in PapaKoala for iOS is provided on an ‘as is’ basis and are intended for educational and entertainment purposes only. PapaKoala does not makes any representation or warranty as to the fitness for use of any of the information. The content and information are not intended to and does not constitute legal, professional, medical or healthcare advises or diagnosis and may not be used for such purposes. PapaKoala does not represent or warrants any results. PapaKoala recommends that parents and guardians should never leave their infants unattended and to seek the advice of your physician or health provider with any questions arising any medical condition. You should not act or refrain from acting on the basis of any information or content available in the application.{: .text-justify}
+The information in PapaKoala for iOS is provided on an ‘as is’ basis and are intended for educational and entertainment purposes only. PapaKoala does not makes any representation or warranty as to the fitness for use of any of the information. The content and information are not intended to and does not constitute legal, professional, medical or healthcare advises or diagnosis and may not be used for such purposes. PapaKoala does not represent or warrants any results. PapaKoala recommends that parents and guardians should never leave their infants unattended and to seek the advice of your physician or health provider with any questions arising any medical condition. You should not act or refrain from acting on the basis of any information or content available in the application.
 
 ## Contact Us
 If you have any questions about this Privacy Policy, feel free to get in touch with us at hello@papakoala.com 
