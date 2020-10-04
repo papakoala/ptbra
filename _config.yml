@@ -127,5 +127,3 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
-kramdown:
-  hard_wrap: true
