@@ -13,8 +13,7 @@ spanish_page_link                         : https://es.papakoala.com
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Early stimulation exercises for babies. 
-Newborns crave novelty and become bored with familiarity, so their eyes, ears, and other sensory organs are attuned to events from which they can learn. 
+app_description                           : Early stimulation exercises for babies. Newborns crave novelty and become bored with familiarity, so their eyes, ears, and other sensory organs are attuned to events from which they can learn. 
 PapaKoala features more than 70 videos with detailed explanations. 
 Additional activities from age one through age two will come in a future app update.
 
@@ -50,9 +49,9 @@ features                                  :
     description                           : Babies who have more sensory experiences are able to develop more brain power.³ The early years are a period of considerable opportunity for growth.
     fontawesome_icon_name                 : puzzle-piece
 
-#  - title                                 : Provide sensitive caregiving activities
-#    description                           : These are the most essential catalysts for feats of intellectual growth. Healthy brain development relies on people to provide the stimulation that organizes connections in the cortex for language and complex thought.
-#    fontawesome_icon_name                 : heart
+  - title                                 : #Provide sensitive caregiving activities
+    description                           : #These are the most essential catalysts for feats of intellectual growth. Healthy brain development relies on people to provide the stimulation that organizes connections in the cortex for language and complex thought.
+    fontawesome_icon_name                 : #heart
 
   - title                                 : Develop deep attachments
     description                           : These activities support nurturing relationships which favour the foundation for positive relationships with peers and teachers, healthy self-concept, and emotional and moral understanding.
