@@ -13,7 +13,7 @@ spanish_page_link                         : https://es.papakoala.com
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : EE Early stimulation exercises for babies. Newborns crave novelty and become bored with familiarity, so their eyes, ears, and other sensory organs are attuned to events from which they can learn. PapaKoala features more than 70 videos with detailed explanations. Additional activities from age one through age two will come in a future app update.
+app_description                           : Early stimulation exercises for babies. \Newborns crave novelty and become bored with familiarity, so their eyes, ears, and other sensory organs are attuned to events from which they can learn. PapaKoala features more than 70 videos with detailed explanations. Additional activities from age one through age two will come in a future app update.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,16 +36,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Create an environment to foster brain development
-    description                           : A child’s experiences and environment during his ﬁrst three years play a crucial role in determining the course of his later life.¹
-    fontawesome_icon_name                 : baby
+    description                           : The early years are a period of considerable opportunity for growth. Babies who have more sensory experiences are able to develop more brain power.³
+    fontawesome_icon_name                 : brain
     
   - title                                 : Enrich with early sensory experiences
     description                           : During the first year of life, babies are developing incipient theories about how the world operates. These foundational theories play a profound role in children's everyday lives and subsequent education.²
-    fontawesome_icon_name                 : brain
+    fontawesome_icon_name                 : baby
 
-  - title                                 : Develop more brain power
-    description                           : Babies who have more sensory experiences are able to develop more brain power.³ The early years are a period of considerable opportunity for growth.
-    fontawesome_icon_name                 : puzzle-piece
+  - title                                 : #Develop more brain power
+    description                           : # A child’s experiences and environment during his ﬁrst three years play a crucial role in determining the course of his later life.¹
+    fontawesome_icon_name                 : # puzzle-piece
 
   - title                                 : #Provide sensitive caregiving activities
     description                           : #These are the most essential catalysts for feats of intellectual growth. Healthy brain development relies on people to provide the stimulation that organizes connections in the cortex for language and complex thought.
@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Develop deep attachments
     description                           : These activities support nurturing relationships which favour the foundation for positive relationships with peers and teachers, healthy self-concept, and emotional and moral understanding.
-    fontawesome_icon_name                 : magnet
+    fontawesome_icon_name                 : heart
 
   - title                                 : #From birth through age one
     description                           : #Newborns crave novelty and become bored with familiarity, so their eyes, ears, and other sensory organs are attuned to events from which they can learn. PapaKoala features more than 70 videos with detailed explanations. Additional activities from age one through age two will come in a future app update.
