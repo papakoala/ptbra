@@ -321,10 +321,10 @@ nav > ul li a:active {
 	line-height: 1.5;
 }
 .appSubtitle {
-	color: $app-description-color;
+	color: $app_title_color ;
 
 .appDescriptionContainer {
-	font-size: 2.2rem;
+	font-size: 2.25rem;
 	font-weight: normal;
 	width: 100%;
 	align-items: flex-start;
@@ -335,7 +335,7 @@ nav > ul li a:active {
 
 }
 .appDescription {
-	color: $app_title_color ;
+	color: $app-description-color;
 }
 
 .appLanguageContainer {
