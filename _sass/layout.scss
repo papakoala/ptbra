@@ -330,12 +330,13 @@ nav > ul li a:active {
 	align-items: flex-start;
 	margin-top: 45px;
 	flex: 0 1 auto;
-	line-height: 1.6;
+	
 }
 
 }
 .appDescription {
 	color: $app-description-color;
+	line-height: 1.6;
 }
 
 .appLanguageContainer {
