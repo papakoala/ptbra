@@ -78,7 +78,7 @@ device_color                              : black                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#444B54"
+link_color                                : "#000000"
 
 app_title_color                           : "#444B54"
 app_price_color                           : "#FFFFFF"
