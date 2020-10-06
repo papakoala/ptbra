@@ -325,8 +325,7 @@ nav > ul li a:active {
 	font-weight: normal;
 	width: 100%;
 	align-items: flex-start;
-	margin-top: 45px;
-	padding-top: 10px;
+	
 	flex: 0 1 auto;
 	
 }
@@ -335,6 +334,7 @@ nav > ul li a:active {
 .appDescription {
 	color: $app-description-color;
 	line-height: 1.5;
+	margin-top: 45px;
 }
 
 .appLanguageContainer {
