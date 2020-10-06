@@ -84,7 +84,7 @@ app_title_color                           : "#444B54"
 app_price_color                           : "#FFFFFF"
 app_description_color                     : "#ffffff"
 
-app-language-color                        : "#FFEAC1"
+app_language_color                        : "#FFEAC1"
 
 feature_title_color                       : "#6EC8FF"
 feature_text_color                        : "#ffffff"
