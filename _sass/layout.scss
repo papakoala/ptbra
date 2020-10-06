@@ -675,7 +675,6 @@ footer {
 	padding-bottom: 70px;
 	color: #BF82EC;
 	font-size: 1.5rem;
-	margin-right: 30px;
 	
 }
 
@@ -689,6 +688,14 @@ footer {
 	margin-right: 0px;
 }
 
+span.copyright {
+	margin-right: 30px;
+	display: flex;
+	text-align: center;
+	padding-bottom: 70px;
+	color: #BF82EC;
+	font-size: 1.5rem;	
+}
 
 @media only screen and (max-width: 768px) {
 
