@@ -100,7 +100,8 @@ footer_text_color                         : "#000000"
 
 
 
-
+# Google services
+google_analytics: UA-180001712-1
 
 
 
