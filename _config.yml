@@ -1,5 +1,5 @@
 #page title
-page_title                                :  PapaKoala | Early stimulation for babies # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                :  PapaKoala | Early stimulation for babies made easy # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -107,7 +107,7 @@ google_analytics: UA-180082157-1
 
 # SEO
 title: PapaKoala
-tagline: Early stimulation exercises for babies
+tagline: Early stimulation exercises for babies made easy
 description: Activities for babies to foster brain development, early sensory experiences and develop deep attachments
 url: papakoala.com
 twitter: unpapakoala
