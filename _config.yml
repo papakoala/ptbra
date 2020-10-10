@@ -127,7 +127,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-url: "https://papakoala.com" # the base hostname & protocol for your site
+
 plugins:
   - jekyll-seo-tag
 
