@@ -18,12 +18,12 @@
 	<link rel="stylesheet" href="/main.css">
 	<link rel="stylesheet" href="main.css">
 	<link rel="stylesheet" href="../main.css">
-  {% include cookie-consent.html %}
-
-	{% if(readCookie('cookie-notice-dismissed')=='true') {
+  
+	<script>
+	if(readCookie('cookie-notice-dismissed')=='true') {
 	{% include analytics.html %}
 	{% seo %}
-	}%}	
-
+	}	
+	</script>
 
 </head>
