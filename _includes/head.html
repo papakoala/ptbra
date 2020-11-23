@@ -20,10 +20,10 @@
 	<link rel="stylesheet" href="../main.css">
 
 
-	if(readCookie('cookie-notice-dismissed')=='true') {
+	{% if(readCookie('cookie-notice-dismissed')=='true') {
 	{% include analytics.html %}
 	{% seo %}
-	}	
+	}%}	
 
 
 </head>
