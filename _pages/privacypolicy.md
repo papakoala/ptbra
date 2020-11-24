@@ -10,7 +10,7 @@ November 15 2020
 # Overview
 This Privacy Policy describes how your personal information is handled in PapaKoala for iOS.
 
-## We don't collect personal information using our application 
+## We don't collect personal information inside of the iOS application 
 We do not collect, use, save, or have access to any of your personal data recorded in PapaKoala for iOS. Individual settings relating to the PapaKoala app (like your saved favourite activities) are stored only on your device.  
 
 ## Our application complies with the Children’s online privacy protection act
