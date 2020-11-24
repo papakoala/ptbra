@@ -7,7 +7,7 @@ include_in_header: false
 **Last updated**  
 November 15 2020
 
-# Overview
+# PapaKoala App for iOS
 This Privacy Policy describes how your personal information is handled in PapaKoala for iOS.
 
 ## We don't collect personal information inside of the iOS application 
@@ -16,7 +16,7 @@ We do not collect, use, save, or have access to any of your personal data record
 ## Our application complies with the Children’s online privacy protection act
 Our application doesn’t collect personal information from anyone, including children under the age of 13.
 
-## Cookies used on the website
+# Cookies used on PapaKoala.com
 Google analytics
 Cookies:_ga
 
