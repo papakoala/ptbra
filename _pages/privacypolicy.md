@@ -13,6 +13,16 @@ This Privacy Policy describes how your personal information is handled in PapaKo
 ## We don't collect personal information inside of the iOS application 
 We do not collect, use, save, or have access to any of your personal data recorded in PapaKoala for iOS. Individual settings relating to the PapaKoala app (like your saved favourite activities) are stored only on your device.  
 
+## Cookies used on the website
+Google analytics
+Cookies:_ga
+
+We use Google Analytics to carry out statistical analysis of page use, page interactions and paths through the Website to evaluate and develop our Website. This is known as 'digital analytics'. 
+
+This information allows us to understand individual behaviours and needs more accurately. For more information on how Google uses the data collected via this service, see here: http://www.google.com/policies/privacy/partners/
+
+To opt out of being tracked via Google Analytics, you can also use Google's opt-out browser add-on: https://tools.google.com/dlpage/gaoptout
+
 ## Our application complies with the Children’s online privacy protection act
 Our application doesn’t collect personal information from anyone, including children under the age of 13.
 
