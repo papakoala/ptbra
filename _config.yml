@@ -10,8 +10,8 @@ presskit_download_link                    :                                     
                                                                                     # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 spanish_page_link                         : https://es.papakoala.com                                                                                      
 english_page_link                         : https://papakoala.com  
-app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : PapaKoala                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  :                      # assets/appicon.png  Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_subtitle                              : Early stimulation exercises for babies.
 app_description                           : The early years are the “prime time” for a young developing brain. This intense period of brain growth and network building capacity happens only once in a lifetime. As caregivers and parents, we have this brief but unique opportunity to help encourage the formation of brain circuitry in our infants.<br /><br />PapaKoala app makes it simple with video-based activities and easy to follow steps to foster babies development. <br /><br />No ads. One-time payment. No subscriptions or in-app purchases.
