@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-November 15 2020
+November 24 2020
 
 # PapaKoala App for iOS
 This Privacy Policy describes how your personal information is handled in PapaKoala for iOS.
