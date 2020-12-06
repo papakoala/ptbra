@@ -257,8 +257,11 @@ nav > ul li a:active {
 } 
 
 .appIconShadow {
-	display: flex;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	filter: $drop-shadow;
+	
 }
 
 .appIconLarge {
@@ -287,7 +290,7 @@ nav > ul li a:active {
 	margin-top: 13px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 9768px) {
 
 	.appNamePriceContainer {
 		width: 100%;
