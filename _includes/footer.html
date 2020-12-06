@@ -53,8 +53,7 @@
 	<div class="footerLinks">
 		<span class="copyright">PapaKoala © All Rights Reserved</span>   
 		{% for page in site.pages %}
-			<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
-		{% endfor %}
+		<a href="{{ page.url | relative_url }}" target="_self" onclick="gtag('event', 'clicPrivacyPageLink', { 'event_category': 'PrivacyPageLink', 'PrivacyPageLink': 'blog', 'value': '0'});">{{ page.title }}</a>		{% endfor %}
 		{% if site.presskit_download_link %}
 			<a href="{{ site.presskit_download_link }}">Press Kit</a>
 		{% endif %}
