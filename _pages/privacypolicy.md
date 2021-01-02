@@ -26,7 +26,7 @@ RevenueCat's privacy policy can be found here https://www.revenuecat.com/gdpr
 
 # Advertising
 The App uses Google AdMob to serve ads for the free version of the App. AdMob, is Google's mobile app advertising platform designed specifically for app
-developers. Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics (for example, 'sports enthusiasts'). Interests, demographics, and other data may be used to serve better targeted ads to the user. You may choose to opt out of personalized ads here  https://www.google.com/settings/ads  
+developers.  Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics (for example, 'sports enthusiasts'). Interests, demographics, and other data may be used to serve better targeted ads to the user. You may choose to opt out of personalized ads here  https://www.google.com/settings/ads  
 
 Google AdMob collects: 
 
