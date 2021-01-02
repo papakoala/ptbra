@@ -17,16 +17,18 @@ The App uses third party services that may collect information used to identify 
 # Payment provider
 
 The App uses Apple as a payment provider for in-app purchases.
-Apple's Privacy Policy can be found here   https://www.apple.com/legal/privacy/en-ww/
+Apple's Privacy Policy can be found here https://www.apple.com/legal/privacy/en-ww/
 
 # In-app purchases 
 
-The App uses Revenue Cat as a management provider for in-app purchases
+The App uses Revenue Cat as an in-app subscription platform to manage in-app purchases. 
 RevenueCat's privacy policy can be found here https://www.revenuecat.com/gdpr 
 
-# Advertisements
+# Advertising
 The App uses Google AdMob to serve ads for the free version of the App. AdMob, is Google's mobile app advertising platform designed specifically for app
-developers. In order to understand Google's use of Data, consult Google's partner policy.
+developers. Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics (for example, 'sports enthusiasts'). Interests, demographics, and other data may be used to serve better targeted ads to the user. You may choose to opt out of personalized ads here  https://www.google.com/settings/ads  
+
+Google AdMob collects: 
 
 Personal Data:
 * Online identifiers, including cookie identifiers
@@ -41,7 +43,7 @@ Google anonymizes the log data by removing part of the IP address (after 9 month
 
 Online resources:
 * Privacy Policy                https://www.google.com/policies/technologies/ads/
-* Opt out                       https://www.google.com/settings/ads
+* Opt out                       https://www.google.com/settings/ads 
 * Service Information           https://privacy.google.com/businesses/adsservices/
 * Partner policy                https://policies.google.com/technologies/partner-sites
 * Ad technology providers       https://support.google.com/admob/answer/9012903
