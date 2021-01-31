@@ -5,14 +5,13 @@ include_in_header: false
 ---
 
 **Last updated**  
-January 2 2021
+January 31 2021
 
 # PapaKoala App for iOS
-PapaKoala app is an Ad Supported app. This app is provided at no cost and is intended for use as is.  This Privacy Policy describes how your personal information is handled in PapaKoala for iOS.
 
 # Information Collection and Use
 
-The App uses third party services that may collect information used to identify you:
+The App uses third party services that may collect information:
 
 ## Payment provider
 
@@ -23,33 +22,6 @@ Apple's Privacy Policy can be found here https://www.apple.com/legal/privacy/en-
 
 The App uses Revenue Cat as an in-app subscription platform to manage in-app purchases. 
 RevenueCat's privacy policy can be found here https://www.revenuecat.com/gdpr 
-
-## Advertising
-The App uses Google AdMob to serve ads for the free version of the App. AdMob, is Google's mobile app advertising platform designed specifically for app
-developers.  Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics (for example, 'sports enthusiasts'). Interests, demographics, and other data may be used to serve better targeted ads to the user. You may choose to opt out of personalized ads here  https://www.google.com/settings/ads  
-
-Google AdMob collects: 
-
-* Online identifiers, including cookie identifiers
-* IP addresses
-* Device identifiers
-* Client identifiers 
-* unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
-* Usage Data
-* Localization
-
-Online resources:
-* Privacy Policy                https://www.google.com/policies/technologies/ads/
-* Opt out                       https://www.google.com/settings/ads 
-* Service Information           https://privacy.google.com/businesses/adsservices/
-* Partner policy                https://policies.google.com/technologies/partner-sites
-* Ad technology providers       https://support.google.com/admob/answer/9012903
-
-Google uses the collected information to provide, maintain, protect and improve Google's services, to develop new ones, and to protect Google and the users. Google also use this information to offer you tailored content – like giving you more relevant search results and ads.
-
-Online resources:
-* Google Terms of Service      https://policies.google.com/terms
-* Google Privacy Policy        https://policies.google.com/privacy
 
 
 ## iCloud Data
