@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-January 31 2021
+January 01 2024
 
 # PapaKoala App for iOS
 
