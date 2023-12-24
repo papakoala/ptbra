@@ -16,18 +16,18 @@ The App uses third party services that may collect information:
 ## Payment provider
 
 The App uses Apple as a payment provider for in-app purchases.
-Apple's Privacy Policy can be found here (https://www.apple.com/legal/privacy/en-ww/)
+Apple's Privacy Policy can be found here <https://www.apple.com/legal/privacy/en-ww/>
 
 ## In-app purchases 
 
 The App uses Revenue Cat as an in-app subscription platform to manage in-app purchases. 
-RevenueCat's privacy policy can be found here https://www.revenuecat.com/gdpr 
+RevenueCat's privacy policy can be found here <https://www.revenuecat.com/gdpr> 
 
 
 ## iCloud Data
 The App stores some of your data in Apple’s iCloud service in order to enable sync features between all devices signed into your Apple ID. Data saved to iCloud is not accessible by us. 
 
-Apple's Privacy Policy can be found here https://www.apple.com/legal/privacy/en-ww/
+Apple's Privacy Policy can be found here <https://www.apple.com/legal/privacy/en-ww/>
 
 # California Online Privacy Protection Act Compliance
 We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
@@ -41,15 +41,15 @@ Cookies:_ga
 
 We use Google Analytics to carry out statistical analysis of page use, page interactions and paths through the Website to evaluate and develop our Website. This is known as 'digital analytics'. 
 
-This information allows us to understand individual behaviours and needs more accurately. For more information on how Google uses the data collected via this service, see here: http://www.google.com/policies/privacy/partners/
+This information allows us to understand individual behaviours and needs more accurately. For more information on how Google uses the data collected via this service, see here: <http://www.google.com/policies/privacy/partners/>
 
-To opt out of being tracked via Google Analytics, you can also use Google's opt-out browser add-on: https://tools.google.com/dlpage/gaoptout
+To opt out of being tracked via Google Analytics, you can also use Google's opt-out browser add-on: <https://tools.google.com/dlpage/gaoptout>
 
 
 # Distribution
 
 The only official channel for distribution of this app is the apple store:
-* Apple Store  https://www.apple.com/app-store/
+* Apple Store  <https://www.apple.com/app-store/>
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
 
