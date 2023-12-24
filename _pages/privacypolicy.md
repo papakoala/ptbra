@@ -16,7 +16,7 @@ The App uses third party services that may collect information:
 ## Payment provider
 
 The App uses Apple as a payment provider for in-app purchases.
-Apple's Privacy Policy can be found here [https://www.apple.com/legal/privacy/en-ww/]
+Apple's Privacy Policy can be found here (https://www.apple.com/legal/privacy/en-ww/)
 
 ## In-app purchases 
 
