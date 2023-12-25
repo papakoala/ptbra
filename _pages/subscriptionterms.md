@@ -9,13 +9,11 @@ January 01 2024
 
 # PapaKoala App for iOS
 
-# Information Collection and Use
-
-The App uses third party services that may collect information:
+# Subscription terms 
 
 ## Payment provider
 
-The App uses Apple as a payment provider for in-app purchases.
+The App uses Apple as a payment provider for Subscription purchases.
 Apple's Privacy Policy can be found here <https://www.apple.com/legal/privacy/en-ww/>
 
 ## Subscription terms purchases 
