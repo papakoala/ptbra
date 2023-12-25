@@ -28,9 +28,10 @@ To make sure your access doesn’t get interrupted, the subscription renews auto
 
 ## How do I cancel the subscription?
 
-If you purchased the PapaKoala subscription from the App Store, you will need to cancel it directly on your Apple account. Please find more information on how to cancel your NordVPN subscription at <https://support.apple.com/en-us/HT202039>.
-If you cancel your subscription, it won’t auto-renew. You can still continue using the service until your subscription period expires.
-Can I upgrade my subscription?
+If you purchased the PapaKoala subscription from the App Store, you will need to cancel it directly on your Apple account. Please find more information on how to cancel your subscription at <https://support.apple.com/en-us/HT202039>.
+If you cancel your subscription, it won’t auto-renew. You can still continue using PapaKoala app until your subscription period expires.
+
+## Can I upgrade my subscription?
 
 Sure! You are always welcome to choose a plan that suits your needs best. Please find more information on how to upgrade your PapaKoala subscription at <https://support.apple.com/en-us/HT204939>.
 You will be charged for the new plan at the next payment date.
