@@ -14,7 +14,8 @@ app_icon                                  :                      # assets/appico
 app_name                                  : 'PapaKoala: Newborn development'                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Subscription based                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_subtitle                              : Embark on a Journey of Brainpower and Bonding with PapaKoala for babies from 0 to 1 year.
-app_description                           : The early years are a window of exceptional opportunity for a baby's brain development. This is the prime time to ignite their intellectual potential and lay the foundation for lifelong learning. \nPapaKoala, your personal early stimulation guide, empowers you to nurture your little one's cognitive growth and foster a deep emotional connection with them.
+app_description                           : "The early years are a window of exceptional opportunity for a baby's brain development. 
+This is the prime time to ignite their intellectual potential and lay the foundation for lifelong learning. \nPapaKoala, your personal early stimulation guide, empowers you to nurture your little one's cognitive growth and foster a deep emotional connection with them."
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -42,7 +43,7 @@ features                                  :
   - title                                 : Unlock the Power of Early Stimulation
     description                           : Immerse your baby in a world of stimulating experiences that foster their brain development and awaken their senses. PapaKoala's carefully curated activities, guided by expert developmental research, introduce your little one to a symphony of sights, sounds, and touch, stimulating their neural pathways and laying the groundwork for future success.
     fontawesome_icon_name                 : baby
-brain
+    
   - title                                 : #Develop more brain power
     description                           : # A child’s experiences and environment during his ﬁrst three years play a crucial role in determining the course of his later life.¹
     fontawesome_icon_name                 : # puzzle-piece
