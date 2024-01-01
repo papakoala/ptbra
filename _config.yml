@@ -14,7 +14,8 @@ app_icon                                  :                      # assets/appico
 app_name                                  : 'PapaKoala: Newborn development'                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 👩‍🍼                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_subtitle                              : Embark on a Journey of Brainpower and Bonding with PapaKoala for babies from 0 to 1 year. 
-app_description                           : The early years are a window of exceptional opportunity for a baby's brain development. This is the prime time to ignite their intellectual potential and lay the foundation for lifelong learning. PapaKoala, your personal early stimulation guide, empowers you to nurture your little one''s cognitive growth and foster a deep emotional connection with them.
+app_description                           : > The early years are a window of exceptional opportunity for a baby's brain development. This is the prime time to ignite their intellectual potential and lay the foundation for lifelong learning. 
+PapaKoala, your personal early stimulation guide, empowers you to nurture your little one's cognitive growth and foster a deep emotional connection with them.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
