@@ -60,9 +60,38 @@
                         
 <div class="appLanguageContainer">
   <p class="appLanguage">
-    Available languages: <a href="{{ site.english_page_link | relative_url }}"target="_self">English</a>, <a href="{{ site.spanish_page_link | relative_url }}"target="_self">Español</a>, <a href="{{ site.japanese_page_link | relative_url }}"target="_self">日本語</a>, <a href="{{ site.chinese_page_link | relative_url }}"target="_self">中文</a>, <a href="{{ site.german_page_link | relative_url }}"target="_self">Deutsch</a>, <a href="{{ site.southkorea_page_link | relative_url }}"target="_self">한국어</a>, <a href="{{ site.french_page_link | relative_url }}"target="_self">Français</a>, <a href="{{ site.italian_page_link | relative_url }}"target="_self">Italiano</a>, <a href="{{ site.hindi_page_link | relative_url }}"target="_self">हिन्दी</a>, <a href="{{ site.portuguese_page_link | relative_url }}"target="_self">Português</a>, <a href="{{ site.brazil_page_link | relative_url }}"target="_self">Português Brasileiro</a>
+    Available languages:
+    {% for language, url in site.languages.items() %}
+      <a href="{{ url | relative_url }}" target="_self">
+        {% if language == 'english' %}
+          <i class="flag-icon flag-icon-us"></i> English
+        {% elif language == 'spanish' %}
+          <i class="flag-icon flag-icon-es"></i> Español
+        {% elif language == 'japanese' %}
+          <i class="flag-icon flag-icon-jp"></i> 日本語
+        {% elif language == 'chinese' %}
+          <i class="flag-icon flag-icon-cn"></i> 中文
+        {% elif language == 'german' %}
+          <i class="flag-icon flag-icon-de"></i> Deutsch
+        {% elif language == 'southkorea' %}
+          <i class="flag-icon flag-icon-kr"></i> 한국어
+        {% elif language == 'french' %}
+          <i class="flag-icon flag-icon-fr"></i> Français
+        {% elif language == 'italian' %}
+          <i class="flag-icon flag-icon-it"></i> Italiano
+        {% elif language == 'hindi' %}
+          <i class="flag-icon flag-icon-in"></i> हिन्दी
+        {% elif language == 'portuguese' %}
+          <i class="flag-icon flag-icon-pt"></i> Português
+        {% elif language == 'brazil' %}
+          <i class="flag-icon flag-icon-br"></i> Português Brasileiro
+        {% endif %}
+      </a>
+      {% if not loop.last %}, {% endif %}
+    {% endfor %}
   </p>
 </div>
+
 
                         
                         <div class="downloadButtonsContainer">
