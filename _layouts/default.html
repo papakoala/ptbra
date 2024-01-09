@@ -61,41 +61,33 @@
 <div class="appLanguageContainer">
   <p class="appLanguage">
     Available languages:
-    <a href="{{ site.english_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-us"></i> English
-    </a>,
-    <a href="{{ site.spanish_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-es"></i> Español
-    </a>,
-    <a href="{{ site.japanese_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-jp"></i> 日本語
-    </a>,
-    <a href="{{ site.chinese_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-cn"></i> 中文
-    </a>,
-    <a href="{{ site.german_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-de"></i> Deutsch
-    </a>,
-    <a href="{{ site.southkorea_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-kr"></i> 한국어
-    </a>,
-    <a href="{{ site.french_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-fr"></i> Français
-    </a>,
-    <a href="{{ site.italian_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-it"></i> Italiano
-    </a>,
-    <a href="{{ site.hindi_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-in"></i> हिन्दी
-    </a>,
-    <a href="{{ site.portuguese_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-pt"></i> Português
-    </a>,
-    <a href="{{ site.brazil_page_link | relative_url }}" target="_self">
-      <i class="flag-icon flag-icon-br"></i> Português Brasileiro
-    </a>
+    <span class="flag flag-es"></span>&nbsp;<a href="{{ 'https://es.papakoala.com' | relative_url }}">Spanish</a>,
+    <span class="flag flag-ja"></span>&nbsp;<a href="{{ 'https://jap.papakoala.com' | relative_url }}">日本語</a>,
+    <span class="flag flag-en"></span>&nbsp;<a href="{{ 'https://papakoala.com' | relative_url }}">English</a>,
+    <span class="flag flag-cn"></span>&nbsp;<a href="{{ 'https://cn.papakoala.com' | relative_url }}">中文</a>,
+    <span class="flag flag-de"></span>&nbsp;<a href="{{ 'https://ger.papakoala.com' | relative_url }}">Deutsch</a>,
+    <span class="flag flag-ko"></span>&nbsp;<a href="{{ 'https://kor.papakoala.com' | relative_url }}">한국어</a>,
+    <span class="flag flag-fr"></span>&nbsp;<a href="{{ 'https://fr.papakoala.com' | relative_url }}">Français</a>,
+    <span class="flag flag-it"></span>&nbsp;<a href="{{ 'https://it.papakoala.com' | relative_url }}">Italiano</a>,
+    <span class="flag flag-hi"></span>&nbsp;<a href="{{ 'https://hi.papakoala.com' | relative_url }}">हिन्दी</a>,
+    <span class="flag flag-pt"></span>&nbsp;<a href="{{ 'https://pt.papakoala.com' | relative_url }}">Português</a>,
+    <span class="flag flag-br"></span>&nbsp;<a href="{{ 'https://ptbra.papakoala.com' | relative_url }}">Português Brasileiro</a>
   </p>
 </div>
+                        
+/* Style the flag icons */
+.appLanguageContainer .flag {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}
+
+/* Style the language links */
+.appLanguageContainer a {
+  color: #000;
+  text-decoration: none;
+}
 
 
                         
