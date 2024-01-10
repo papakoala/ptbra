@@ -1,5 +1,40 @@
+###### Translations here #######
+
+# SEO
+title: 'PapaKoala: Early stimulation exercises for babies made easy'
+tagline: Early stimulation exercises for babies made easy
+description: Early stimulation activities for babies to foster brain development, provide early sensory experiences and build a sense of trust.
 #page title
-page_title                                :  'Nurture Your Little Genius: Discover PapaKoala''s Early Stimulation Journey' # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 'Nurture Your Little Genius: Discover PapaKoala''s Early Stimulation Journey' 
+app_name                                  : 'PapaKoala: Newborn development'                                          
+app_price                                 : Subscription based                                         
+app_subtitle                              : Embark on a Journey of Brainpower and Bonding with PapaKoala for babies from 0 to 1 year.
+app_description                           : "The early years are a window of exceptional opportunity for a baby's brain development. This is the prime time to ignite their intellectual potential and lay the foundation for lifelong learning. \nPapaKoala, your personal early stimulation guide, empowers you to nurture your little one's cognitive growth and foster a deep emotional connection with them."
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+    
+  - title                                 : Unlock the Power of Early Stimulation
+    description                           : Immerse your baby in a world of stimulating experiences that foster their brain development and awaken their senses. PapaKoala's carefully curated activities, guided by expert developmental research, introduce your little one to a symphony of sights, sounds, and touch, stimulating their neural pathways and laying the groundwork for future success.
+    fontawesome_icon_name                 : baby
+    
+
+  - title                                 : Experience the Joy of Interactive Learning
+    description                           : Say goodbye to monotonous exercises and embrace the fun and engaging nature of PapaKoala's interactive activities. Our video-based tutorials provide clear guidance and make learning a delightful experience for both parents and babies.
+    fontawesome_icon_name                 : brain
+
+  - title                                 : Nurture a Bond of Love and Trust
+    description                           : Early stimulation extends beyond cognitive development; it's about creating a secure and loving bond between you and your baby. PapaKoala's activities emphasize touch, the most fundamental form of infant engagement, fostering trust, security, and a deep emotional connection.
+    fontawesome_icon_name                 : heart
+
+
+
+
+############## end of translations block #####
+
+
+
+
 
 # App Info
 ios_app_id                                : 1540490806                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -21,10 +56,8 @@ portuguese_page_link                      : https://pt.papakoala.com
 brazil_page_link                          : https://ptbra.papakoala.com
 
 app_icon                                  :                      # assets/appicon.png  Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : 'PapaKoala: Newborn development'                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Subscription based                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_subtitle                              : Embark on a Journey of Brainpower and Bonding with PapaKoala for babies from 0 to 1 year.
-app_description                           : "The early years are a window of exceptional opportunity for a baby's brain development. This is the prime time to ignite their intellectual potential and lay the foundation for lifelong learning. \nPapaKoala, your personal early stimulation guide, empowers you to nurture your little one's cognitive growth and foster a deep emotional connection with them."
+
+
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -40,38 +73,6 @@ twitter_username                          :
 github_username                           : 
 youtube_username                          : 
 
-
-
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
-
-  - title                                 : #Embark on a Journey of Brainpower and Bonding with PapaKoala
-    description                           : #The early years are a window of exceptional opportunity for a baby's brain development. This is the prime time to ignite their intellectual potential and lay the foundation for lifelong learning. PapaKoala, your personal early stimulation guide, empowers you to nurture your little one's cognitive growth and foster a deep emotional connection with them.
-    fontawesome_icon_name                 : #brain
-    
-  - title                                 : Unlock the Power of Early Stimulation
-    description                           : Immerse your baby in a world of stimulating experiences that foster their brain development and awaken their senses. PapaKoala's carefully curated activities, guided by expert developmental research, introduce your little one to a symphony of sights, sounds, and touch, stimulating their neural pathways and laying the groundwork for future success.
-    fontawesome_icon_name                 : baby
-    
-  - title                                 : #Develop more brain power
-    description                           : # A child’s experiences and environment during his ﬁrst three years play a crucial role in determining the course of his later life.¹
-    fontawesome_icon_name                 : # puzzle-piece
-
-  - title                                 : #Provide sensitive caregiving activities
-    description                           : #These are the most essential catalysts for feats of intellectual growth. Healthy brain development relies on people to provide the stimulation that organizes connections in the cortex for language and complex thought.
-    fontawesome_icon_name                 : #heart
-
-  - title                                 : Experience the Joy of Interactive Learning
-    description                           : Say goodbye to monotonous exercises and embrace the fun and engaging nature of PapaKoala's interactive activities. Our video-based tutorials provide clear guidance and make learning a delightful experience for both parents and babies.
-    fontawesome_icon_name                 : baby
-
-  - title                                 : Nurture a Bond of Love and Trust
-    description                           : Early stimulation extends beyond cognitive development; it's about creating a secure and loving bond between you and your baby. PapaKoala's activities emphasize touch, the most fundamental form of infant engagement, fostering trust, security, and a deep emotional connection.
-    fontawesome_icon_name                 : heart
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
@@ -115,12 +116,9 @@ google_analytics: G-D89JL3TSP6
 
 
 
-# SEO
-title: 'PapaKoala: Early stimulation exercises for babies made easy'
-tagline: Early stimulation exercises for babies made easy
-description: Early stimulation activities for babies to foster brain development, provide early sensory experiences and build a sense of trust.
+
 # url: papakoala.com
-twitter: unpapakoala
+
 
 
 
